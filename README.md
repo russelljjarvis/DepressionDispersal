@@ -1,22 +1,16 @@
 <h1 align="center">
     <br>
-        <a href="https://alextselegidis.com/get/questionful">
-            <img src="https://raw.githubusercontent.com/alextselegidis/questionful/master/questionful.png" alt="Questionful" width="200">
         </a>
         <br>
         <br>
-        Questionful
+        Depression Dispersal
     <br>
 </h1>
 
 <h4 align="center">
-    Questionnaires Made Simple 
+    A Geographic and Temporal Questionnaire about Depression onset place and duration. 
 </h4>
 
-<p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/alextselegidis/questionful?style=for-the-badge">
-  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alextselegidis/questionful?style=for-the-badge">
-</p>
 
 <p align="center">
   <a href="#about">About</a> •
@@ -27,7 +21,14 @@
 
 ## About
 
-Questionful makes creating online questionnaires a breeze.
+## Build
+
+To build your online questionnaire you have to add your questions to the 
+`src/Questionful.json` file and run the `npm run build` command. 
+
+Your questionnaire files will become available in the `build` directory, 
+serve them online! 😊
+
 
 ## Setup
 
@@ -50,13 +51,6 @@ $ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-## Build
-
-To build your online questionnaire you have to add your questions to the 
-`src/Questionful.json` file and run the `npm run build` command. 
-
-Your questionnaire files will become available in the `build` directory, 
-serve them online! 😊
 
 ## License 
 
