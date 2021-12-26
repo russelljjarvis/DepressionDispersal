@@ -12,12 +12,12 @@
     },
     "questions": [
         {
-            "id": "name",
-            "title": "What is your name?"
+            "id": "depression_onset",
+            "title": "What year did your depression first occur format (20xx)?"
         },
         {
-            "id": "age",
-            "title": "What is your age?"
+            "id": "postcode",
+            "title": "what is your postcode?"
         }
     ]
 }
