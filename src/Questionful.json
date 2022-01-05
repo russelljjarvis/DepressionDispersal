@@ -17,7 +17,20 @@
         },
         {
             "id": "postcode",
-            "title": "what is your postcode?"
+            "title": "what is your pet dogs postcode?"
+        },
+        {
+            "id": "dogstatus",
+            "title": "Is there reason to believe your pet dog is depressed?"
+        },
+        {
+            "id": "dogstatus",
+            "title": "How many other depressed dogs do you know?"
+        },
+        {
+            "id": "dogstatus",
+            "title": "How many healthy dogs do you know?"
         }
+
     ]
 }
